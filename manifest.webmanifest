@@ -1,0 +1,20 @@
+{
+  "name": "FFTA Editor",
+  "short_name": "FFTA Editor",
+  "description": "Edit jobs, abilities and items of Final Fantasy Tactics Advance.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#131829",
+  "theme_color": "#1a2036",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
